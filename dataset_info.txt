@@ -1,0 +1,10 @@
+Dataset: NASA Web Server Logs
+
+Due to the large size of the dataset, the data files are not included in this repository.
+
+Source:
+https://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html
+
+Files used:
+- access_log_Jul95
+- access_log_Aug95
